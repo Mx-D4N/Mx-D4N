@@ -22,6 +22,7 @@ Sobre Mi:
 </p>
 
 
+
 QA Proyectos Técnicos
 Plataforma de Gestión de Pedidos “Urban Scooter” | Bootcamp Remoto Tripleten (2025)
 
