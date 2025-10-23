@@ -26,3 +26,4 @@ Sobre Mi:
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/06e74466-7e8b-4ee2-b567-ec7d262bee31" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/affa0e91-d867-4f27-b16e-57af6c3954dd" />
 
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/535858a0-60ae-45ef-a8ec-7661b5bf4339" />
