@@ -17,6 +17,6 @@ Sobre Mi:
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,postman,pycharm,selenium,gmail,html,notion,linkedin" />
   </a>
 </p>
