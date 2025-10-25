@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/fd659f82-0a6e-482d-bb06-b3fe8c2736f0" />
+<img width="1584" height="396" alt="Banner Qa Breve azul" src="https://github.com/user-attachments/assets/ec9afdd8-c342-4820-ba1e-0f19091fe1fe" />
 
 
 ## Hola soy Dan 👋
