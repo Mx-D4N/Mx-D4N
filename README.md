@@ -8,7 +8,7 @@ Sobre Mi:
 - 🔭 Ingeniero en sistemas recientemente especializado en Ingeniería de Calidad de Software (QA).
 - 🌱 Me emociona trabajar en nuevas tecnologías, motivado por la firme creencia de que la tecnología bien desarrollada mejora la vida de las personas.
 - 🤔 He realizado proyectos con Python, utilizando la libreria Pytest y Request en Pycharm.
-- 💬 Tambien he realizados pruebas con diversas herramientas de Testing como Jira, Postman y Android Studio.
+- 💬 Tambien he realizado pruebas con herramientas de Testing como Jira, Postman y Android Studio.
 - 📫 Correo: soporte.dmjz@gmail.com
 - ⚡ Lenguajes y Herramientas:
 
@@ -21,7 +21,7 @@ Sobre Mi:
 
 
 
-QA Proyectos Técnicos
+QA Proyectos
 Plataforma de Gestión de Pedidos “Urban Scooter” | Bootcamp Remoto Tripleten (2025)
 
 ●	Diseñé e implementé pruebas E2E (End-to-End) para una aplicación web de Delivery “Urban Scooter”, validando la transacción crítica, flujo de negocio y la integración de datos, generando una experiencia integral (con los respectivos informes en JIRA) a través de cuatro capas del sistema: 
