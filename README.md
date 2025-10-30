@@ -5,7 +5,7 @@
 
 Sobre Mi:
 
-- 🔭 Ingeniero en sistemas recientemente especializado en QA Engineer.
+- 🔭 Ingeniero en sistemas recientemente especializado en Ingeniería de Calidad de Software (QA).
 - 🌱 Me emociona trabajar en nuevas tecnologías, motivado por la firme creencia de que la tecnología bien desarrollada mejora la vida de las personas.
 - 🤔 He realizado proyectos con Python, utilizando la libreria Pytest y Request en Pycharm.
 - 💬 Tambien he realizados pruebas con diversas herramientas de Testing como Jira, Postman y Android Studio.
