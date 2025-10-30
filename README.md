@@ -6,10 +6,9 @@
 Sobre Mi:
 
 - 🔭 Ingeniero en sistemas recientemente especializado en QA Engineer.
-- 🌱 Me emociona trabajar en nuevas tecnologías.
-- 👯  Motivado por la firme creencia de que la tecnología bien desarrollada mejora la vida de las personas, busco unirme a equipos que compartan esta visión.
+- 🌱 Me emociona trabajar en nuevas tecnologías, motivado por la firme creencia de que la tecnología bien desarrollada mejora la vida de las personas.
 - 🤔 He realizado proyectos con Python, utilizando la libreria Pytest y Request en Pycharm.
-- 💬 Tambien he realizados pruebas con diversas herramientas de Testing, como Jira, Postman y Android Studio.
+- 💬 Tambien he realizados pruebas con diversas herramientas de Testing como Jira, Postman y Android Studio.
 - 📫 Correo: soporte.dmjz@gmail.com
 - ⚡ Lenguajes y Herramientas:
 
