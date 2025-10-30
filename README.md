@@ -22,6 +22,7 @@ Sobre Mi:
 
 
 QA Proyectos
+
 Plataforma de Gestión de Pedidos “Urban Scooter” | Bootcamp Remoto Tripleten (2025)
 
 ●	Diseñé e implementé pruebas E2E (End-to-End) para una aplicación web de Delivery “Urban Scooter”, validando la transacción crítica, flujo de negocio y la integración de datos, generando una experiencia integral (con los respectivos informes en JIRA) a través de cuatro capas del sistema: 
