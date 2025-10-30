@@ -11,7 +11,6 @@ Sobre Mi:
 - 🤔 He realizado proyectos con Python, utilizando la libreria Pytest y Request en Pycharm.
 - 💬 Tambien he realizados pruebas con diversas herramientas de Testing, como Jira, Postman y Android Studio.
 - 📫 Correo: soporte.dmjz@gmail.com
-- 😄 LinkedIn: https://www.linkedin.com/in/dan-m4-qa/
 - ⚡ Lenguajes y Herramientas:
 
 -->
