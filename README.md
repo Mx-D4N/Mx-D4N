@@ -1,14 +1,16 @@
 <img width="1584" height="396" alt="Banner Qa Breve azul" src="https://github.com/user-attachments/assets/ec9afdd8-c342-4820-ba1e-0f19091fe1fe" />
 
 
-## Hola soy Dan 👋
+## Hola soy Dan
 
 Sobre Mi:
 
 - 🔭 Ingeniero en sistemas recientemente especializado en Ingeniería de Calidad de Software (QA).
-- 🌱 Me emociona trabajar en nuevas tecnologías, motivado por la firme creencia de que la tecnología bien desarrollada mejora la vida de las personas.
+- 🌱 Me emociona trabajar en nuevas tecnologías.
 - 🤔 He realizado proyectos con Python, utilizando la libreria Pytest y Request en Pycharm.
 - 💬 Tambien he realizado pruebas con herramientas de Testing como Jira, Postman y Android Studio.
+- 💻 Profesional Orientado al Cliente con la habilidad de explicar al usuario cómo funciona un Sistema, una App o un Software de forma clara y accesible.
+- 🤝 Mi experiencia directa en Soporte, configuración de Software, Capacitación, Análisis y Resolución de problemas al cliente, me ha dado la capacidad de traducir lo técnico a lenguaje no técnico con empatía.
 - 📫 Correo: soporte.dmjz@gmail.com
 - ⚡ Lenguajes y Herramientas:
 
