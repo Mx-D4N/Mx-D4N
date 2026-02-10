@@ -25,13 +25,18 @@ Sobre Mi:
 
 QA Proyectos
 
+<img width="279" height="186" alt="Captura de pantalla 2026-02-10 011231" src="https://github.com/user-attachments/assets/021d7e93-a0d6-4a2f-9775-561d262af6fa" />
+
 Plataforma de Gestión de Pedidos | (2025)
 
 ●	Diseñé e implementé pruebas E2E (End-to-End) para una aplicación web de Delivery “Urban Scooter”, validando la transacción crítica, flujo de negocio y la integración de datos, generando una experiencia integral (con los respectivos informes en JIRA) a través de cuatro capas del sistema: 
 1.	Interfaz Web   2. API (Postman) 3. Base de datos (PostgreSQL) 4. App Móvil (Android Studio)
 ●	Habilidades tecnológicas utilizadas:  Postman, Android Studio, Cygwin, Navegadores Web (Chrome, Opera), JIRA, GitHub, Miro, Google docs, Google sheets.
 
+
 Automatización de Pruebas en Aplicación Web | (2025)
+
+<img width="332" height="186" alt="Captura de pantalla 2026-02-10 011255" src="https://github.com/user-attachments/assets/b6892288-8b24-42c0-a577-952073b503dd" />
 
 ●	He automatizado pruebas de IU para una aplicación de enrutamiento (taxi) utilizando Python y Selenium WebDriver.
 ●	Realice la búsqueda de selectores HTML con Devtools para definir localizadores y utilizar métodos en POM.
