@@ -2,7 +2,8 @@
 
 
 ## Hola soy Dan
-
+                  
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 Sobre Mi:
 
 - 🔭 Ingeniero en sistemas especializado en Ingeniería de Calidad de Software (QA).
@@ -14,7 +15,6 @@ Sobre Mi:
 - 📫 Correo: soporte.dmjz@gmail.com
 - ⚡ 🐞 Testing Tools :
 
--->
 <p align="center">
   <a href="https://skillicons.dev"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" **alt="Azure DevOps" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" **alt="Pytest" width="40" height="40"/> 
     <img src="https://skillicons.dev/icons?i=github,git,androidstudio,postman,pycharm,python,selenium,gmail,html,notion,linkedin" />
